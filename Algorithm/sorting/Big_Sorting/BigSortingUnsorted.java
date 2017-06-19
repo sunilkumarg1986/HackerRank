@@ -1,4 +1,8 @@
 package com.test;
+/*
+Below code is used to compare the list of String as number.
+I have used Arrays method to sort the String based on customized comparator interface with custom return values as below 
+*/
 
 import java.util.Arrays;
 import java.util.Comparator;
